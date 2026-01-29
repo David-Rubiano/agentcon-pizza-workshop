@@ -25,7 +25,7 @@ This creates your own copy of the workshop repo.
 
 GitHub will now start a new Codespace using the provided **devcontainer configuration**.  
 This will:  
-- Build a container with Python 3.13  
+- Build a container with Python > 3.10  
 - Install all dependencies from `requirements.txt`  
 
 This step can take a few minutes the first time.  
@@ -46,7 +46,7 @@ Run the following to check that everything is set up correctly:
 ```bash
 python --version
 ```
-Expected output: **Python 3.10.x**  
+Expected output: **Python 3.1x.x**  
 
 
 ### 5. Start Coding 🚀  
