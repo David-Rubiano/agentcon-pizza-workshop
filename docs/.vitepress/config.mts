@@ -115,7 +115,7 @@ export default defineConfig({
       { 
         text: 'Welcome',
         items: [
-          { text: 'Get started', link: '/index' },
+          { text: 'Get started', link: '/' },
           { text: 'About the workshop', link: '/about' },
         ]
       },
